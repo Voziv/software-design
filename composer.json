@@ -1,0 +1,13 @@
+{
+    "name": "voziv/software-patterns",
+    "description": "A project to explore different software architecture patterns",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lee Robert",
+            "email": "lrobert@leerobert.ca"
+        }
+    ],
+    "require": {}
+}
