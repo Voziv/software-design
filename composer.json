@@ -9,5 +9,17 @@
             "email": "lrobert@leerobert.ca"
         }
     ],
-    "require": {}
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Voziv\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
+        }
+    }
 }
